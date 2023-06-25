@@ -2,4 +2,6 @@ build/
 .venv/
 _*/
 test.py
-build
+*.ps1
+*.spec
+test.yaml
