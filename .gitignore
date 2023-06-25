@@ -1,0 +1,5 @@
+build/
+.venv/
+_*/
+test.py
+build
